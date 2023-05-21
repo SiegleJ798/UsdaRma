@@ -1,0 +1,8 @@
+,Commodity.Code,Commodity.Name,Quantity.Insured.Rank
+0,41,Corn                          ,2.0
+1,11,Wheat                         ,4.0
+2,81,Soybeans                      ,3.0
+4,51,Grain Sorghum                 ,6.0
+5,88,"Pasture,Rangeland,Forage      ",1.0
+6,91,Barley                        ,10.0
+7,21,Cotton                        ,5.0
